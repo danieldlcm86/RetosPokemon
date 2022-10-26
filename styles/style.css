@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(18, 14, 14);
+}
+
+p{
+    color:whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color:rgb(212, 160, 28);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color:rgb(212, 160, 28);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color:rgb(212, 160, 28);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Luismi{
+    text-align: center;
+}
+
+.lista{
+    color:whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.enlaces{
+    color: gold;
+}
+
+.myButton {
+    color: rgb(255, 255, 255); 
+    font-size: 16px; 
+    line-height: 16px; 
+    padding: 11px; 
+    border-radius: 7px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal; 
+    text-decoration: none; 
+    font-style: normal; 
+    font-variant: normal; 
+    text-transform: none; 
+    background:whitesmoke; 
+    border: 2px solid rgb(28, 110, 164); 
+    display: inline-block;}
+    .myButton:hover {
+    background: #1C6EA4; }
+    .myButton:active {
+    background: #144E75; }
